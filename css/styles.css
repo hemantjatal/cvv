@@ -1,13 +1,14 @@
     .body1 {
-      
+      nargin: 0;
       text-align: center;
-      background-color: red;
+      background-color: #B1E1FF;
     }
 
     .div1 {
       height: 720px;
       background-color: #AFB4FF;
       margin: 0;
+        
       padding-top: 1px;
       position: relative;
     }
